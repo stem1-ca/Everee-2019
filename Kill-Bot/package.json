@@ -1,7 +1,7 @@
 {
-  "name": "faris",
+  "name": "KillBot",
   "version": "1.0.0",
-  "description": "Rock Paper Scissor Bot",
+  "description": "Kill Bot Discord",
   "main": "index.js",
   "scripts": {
     "test": "!info"
